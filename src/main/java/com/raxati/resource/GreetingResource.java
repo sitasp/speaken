@@ -1,4 +1,4 @@
-package com.raxati;
+package com.raxati.resource;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
